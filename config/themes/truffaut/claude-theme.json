@@ -1,0 +1,18 @@
+{
+  "name": "Truffaut Acts",
+  "base": "dark",
+  "overrides": {
+    "text": "#E7E5DF",
+    "inactive": "#8A8477",
+    "subtle": "#6E6A5F",
+    "claude": "#F5B927",
+    "permission": "#3B82F6",
+    "success": "#22C55E",
+    "error": "#EF4444",
+    "warning": "#F5B927",
+    "planMode": "#3B82F6",
+    "autoAccept": "#22C55E",
+    "promptBorder": "#48443C",
+    "promptBorderShimmer": "#F5B927"
+  }
+}

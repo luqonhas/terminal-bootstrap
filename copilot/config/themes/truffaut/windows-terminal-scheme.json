@@ -1,0 +1,23 @@
+{
+  "name": "Truffaut Acts",
+  "background": "#1D1D1D",
+  "foreground": "#E7E5DF",
+  "black": "#141414",
+  "red": "#EF4444",
+  "green": "#22C55E",
+  "yellow": "#F5B927",
+  "blue": "#3B82F6",
+  "purple": "#8A8477",
+  "cyan": "#6B7A8F",
+  "white": "#E7E5DF",
+  "brightBlack": "#4A4A46",
+  "brightRed": "#EF4444",
+  "brightGreen": "#22C55E",
+  "brightYellow": "#F5B927",
+  "brightBlue": "#3B82F6",
+  "brightPurple": "#A39C8C",
+  "brightCyan": "#8A9AAE",
+  "brightWhite": "#F5F3EE",
+  "cursorColor": "#F5B927",
+  "selectionBackground": "#3A362E"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Vivid Graphite",
+  "base": "dark",
+  "overrides": {
+    "text": "#E6E9EF",
+    "inactive": "#6B7280",
+    "subtle": "#8B93A1",
+    "claude": "#A855F7",
+    "permission": "#22D3EE",
+    "success": "#22C55E",
+    "error": "#FF5C57",
+    "warning": "#F59E0B",
+    "planMode": "#3B82F6",
+    "autoAccept": "#22C55E",
+    "promptBorder": "#2F3542",
+    "promptBorderShimmer": "#3B82F6"
+  }
+}

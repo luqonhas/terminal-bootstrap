@@ -1,0 +1,23 @@
+{
+  "name": "Vivid Graphite",
+  "background": "#0B0D10",
+  "foreground": "#E6E9EF",
+  "black": "#171A21",
+  "red": "#FF5C57",
+  "green": "#22C55E",
+  "yellow": "#F59E0B",
+  "blue": "#3B82F6",
+  "purple": "#A855F7",
+  "cyan": "#22D3EE",
+  "white": "#E6E9EF",
+  "brightBlack": "#6B7280",
+  "brightRed": "#FF6B6B",
+  "brightGreen": "#4ADE80",
+  "brightYellow": "#FACC15",
+  "brightBlue": "#60A5FA",
+  "brightPurple": "#C084FC",
+  "brightCyan": "#67E8F9",
+  "brightWhite": "#F9FAFB",
+  "cursorColor": "#F8FAFC",
+  "selectionBackground": "#242933"
+}

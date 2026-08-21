@@ -1,0 +1,19 @@
+{
+  "defaults": {
+    "antialiasingMode": "cleartype",
+    "cursorShape": "bar",
+    "font": { "face": "JetBrains Mono", "size": 13 },
+    "opacity": 100,
+    "padding": "12",
+    "useAcrylic": false
+  },
+  "topLevel": {
+    "copyOnSelect": true,
+    "copyFormatting": "none"
+  },
+  "keybindings": [
+    { "id": "Terminal.CopyToClipboard", "keys": "ctrl+c" },
+    { "id": "Terminal.PasteFromClipboard", "keys": "ctrl+v" },
+    { "id": "Terminal.DuplicatePaneAuto", "keys": "alt+shift+d" }
+  ]
+}
